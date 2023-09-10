@@ -2,7 +2,7 @@ Creating a README file for your GitHub repository on wine quality prediction is 
 
 # Wine Quality Prediction
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 
 ## Table of Contents
 - [About](#about)
